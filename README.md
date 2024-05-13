@@ -1,2 +1,3 @@
 # RemoteControl
 基于MFC的远程监控系统
+将initSystem.ini文件复制到生成的exe目录下根据需要修改IP地址
